@@ -14,7 +14,7 @@
 
 /*ETIQUETAS*/
 body{
-background-image: #006680;
+background: #ff920a;
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -52,7 +52,7 @@ header{
 nav{
 width: 1000px;
 height: 50px;
-background: red;
+background: #006680;
 border-radius: 10px;
 
 }
@@ -74,7 +74,7 @@ li{
 
 section{
 	width: 700px;
-	background: gray;
+	background: #F2B80D;
 	height: 600px;
 	float: left;
 	margin-top: 20px;
@@ -83,7 +83,7 @@ section{
 aside{
 
 	width: 280px;
-	background: white;
+	background: #FF5900;
 	height: 600px;
 	float: left;
 	margin-left: 20px;
@@ -94,7 +94,7 @@ aside{
 footer{
 width: 1000px;
 height: 70px;
-background: maroon;
+background: #808080;
 float: left;
 margin-top: 20px;
 border-radius: 10px;
@@ -124,7 +124,6 @@ p{
 .menu:active{color: white; text-decoration: none;}
 
 /*SEUDO CLASES*/
-
 
 
 
