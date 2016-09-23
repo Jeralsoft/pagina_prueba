@@ -52,7 +52,7 @@ header{
 }
 
 nav{
-width: 1000px;
+width: 992px;
 height: 50px;
 background: #006680;
 border-radius: 10px;
@@ -94,7 +94,7 @@ aside{
 }
 
 footer{
-width: 1000px;
+width: 992px;
 height: 70px;
 background: #808080;
 float: left;
