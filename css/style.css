@@ -79,7 +79,7 @@ section{
 	background: #F2B80D;
 	height: 600px;
 	float: left;
-	margin-top: 20px;
+	margin-top: 10px;
 	border-radius: 10px;
 }
 aside{
@@ -88,8 +88,8 @@ aside{
 	background: #FF5900;
 	height: 600px;
 	float: left;
-	margin-left: 20px;
-	margin-top: 20px;
+	margin-left: 10px;
+	margin-top: 10px;
 	border-radius: 10px;
 }
 
@@ -98,7 +98,7 @@ width: 1000px;
 height: 70px;
 background: #808080;
 float: left;
-margin-top: 20px;
+margin-top: 10px;
 border-radius: 10px;
 margin-bottom: 20px;
 }
@@ -120,10 +120,10 @@ p{
 .ancho_menu_home{width: 900px;}
 .ancho_menu_paginas{width: 970px;}
 
-.menu:link{color: white; text-decoration: none;}
-.menu:visited{color: white; text-decoration: none;}
-.menu:hover{color: white; text-decoration: none; text-shadow: 0 0 13px white;}
-.menu:active{color: white; text-decoration: none;}
+.menu:link{color: blue; text-decoration: none;}
+.menu:visited{color: yellow; text-decoration: none;}
+.menu:hover{color: yellowyellow; text-decoration: none; text-shadow: 0 0 13px yellow;}
+.menu:active{color: yellow; text-decoration: none;}
 
 /*SEUDO CLASES*/
 
